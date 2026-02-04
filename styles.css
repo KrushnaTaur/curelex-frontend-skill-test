@@ -262,7 +262,10 @@ body {
 /* ===== Features Section ===== */
 .features {
   padding: 100px 0;
-  background: var(--background);
+}
+
+.features-grid {
+  margin-top: 40px;
 }
 
 .features-grid {
@@ -273,6 +276,7 @@ body {
 
 .feature-card {
   background: white;
+  height: 100%;
   padding: 32px;
   border-radius: 12px;
   border: 1px solid var(--border);
