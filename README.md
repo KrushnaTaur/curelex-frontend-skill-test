@@ -16,7 +16,7 @@ Frontend Development Skill Test for Curelex Healthtech Pvt. Ltd.
 - Complete footer with company details and social links
 
 ## Live Demo
-
+https://curelex-frontend.vercel.app/
 
 ## Author
 Krushna Taur
